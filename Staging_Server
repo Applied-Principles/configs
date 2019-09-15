@@ -1,0 +1,24 @@
+Storage / Staging Server
+
+
+Requirements:
+
+1. Python3 and Python2
+sudo apt install python2.7 and python3.7
+
+2. Git
+sudo apt install git
+
+3. Impacket
+git clone https://github.com/SecureAuthCorp/impacket
+pip3 install .
+
+4 WebDav
+
+#TODO 
+# https://www.trustedsec.com/2018/06/how-to-set-up-a-quick-simple-webdav-server-for-remote-file-sharing/?utm_campaign=Blog%20Posts&utm_content=72940603&utm_medium=social&utm_source=twitter
+
+
+5. Owncloud
+#TODO
+#https://owncloud.org/
